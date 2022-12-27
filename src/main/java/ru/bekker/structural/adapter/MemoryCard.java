@@ -1,4 +1,4 @@
-package ru.bekker.adapter;
+package ru.bekker.structural.adapter;
 
 public class MemoryCard {
     public void insert() {
